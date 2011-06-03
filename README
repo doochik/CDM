@@ -1,0 +1,10 @@
+(в IE8 события синхронные, в остальных - ассинхронные):
+
+All browsers are sent event in async mode except IE8
+
+Support:
+  * IE8+. Only strings, JSON support
+  * Fx 3.0+. Only string, JSON support in 3.5+
+  * Chrome, Safari 4+. Any data, Safari 4 only string. JSON support
+  * Opera 9.6+. 10.5- only string. JSON support in 10.5+
+
